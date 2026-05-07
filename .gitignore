@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+embeddings/chroma_db/
+
+data/repos/
+data/processed/
+
+graph/*.gml
