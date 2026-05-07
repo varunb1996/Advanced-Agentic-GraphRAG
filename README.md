@@ -25,7 +25,11 @@ PyPDF
 
 ## Run the project
 python ingest.py
+
 python embed.py
+
 python graph_builder.py
+
 python -m uvicorn api:app --reload
+
 python -m streamlit run app.py
