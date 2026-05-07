@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+sentence-transformers
+pypdf
+networkx
+python-dotenv
+requests
+beautifulsoup4
+gitpython
+tqdm
+torch
+transformers
+numpy
